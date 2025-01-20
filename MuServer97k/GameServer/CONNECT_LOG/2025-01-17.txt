@@ -1,0 +1,109 @@
+15:12:38 [SocketManager] Server started at port [55901]
+15:19:33 [SocketManager] Server started at port [55901]
+15:21:46 [JoinServerConnection] connect() failed with error: 10061
+15:21:48 [DataServerConnection] connect() failed with error: 10061
+15:21:56 [JoinServerConnection] connect() failed with error: 10061
+15:21:58 [DataServerConnection] connect() failed with error: 10061
+15:22:06 [JoinServerConnection] connect() failed with error: 10061
+15:22:08 [DataServerConnection] connect() failed with error: 10061
+15:22:16 [JoinServerConnection] connect() failed with error: 10061
+15:22:18 [DataServerConnection] connect() failed with error: 10061
+15:22:26 [JoinServerConnection] connect() failed with error: 10061
+15:22:28 [DataServerConnection] connect() failed with error: 10061
+15:22:36 [JoinServerConnection] connect() failed with error: 10061
+15:22:38 [DataServerConnection] connect() failed with error: 10061
+15:22:46 [JoinServerConnection] connect() failed with error: 10061
+15:22:48 [DataServerConnection] connect() failed with error: 10061
+15:22:56 [JoinServerConnection] connect() failed with error: 10061
+15:22:58 [DataServerConnection] connect() failed with error: 10061
+15:23:06 [JoinServerConnection] connect() failed with error: 10061
+15:23:08 [DataServerConnection] connect() failed with error: 10061
+15:23:16 [JoinServerConnection] connect() failed with error: 10061
+15:23:18 [DataServerConnection] connect() failed with error: 10061
+15:23:26 [JoinServerConnection] connect() failed with error: 10061
+15:23:28 [DataServerConnection] connect() failed with error: 10061
+15:25:57 [SocketManager] Server started at port [55901]
+15:26:08 [JoinServerConnection] send() failed with error: 10054
+15:26:08 [DataServerConnection] send() failed with error: 10054
+15:26:18 [JoinServerConnection] send() failed with error: 10054
+15:26:18 [DataServerConnection] send() failed with error: 10054
+15:26:28 [JoinServerConnection] send() failed with error: 10054
+15:26:28 [DataServerConnection] send() failed with error: 10054
+15:27:31 [SocketManager] Server started at port [55901]
+15:28:55 [ObjectManager][9000] AddClient (192.168.3.32)
+15:28:57 [ObjectManager][9000] DelClient (192.168.3.32)
+15:35:06 [ObjectManager][9000] AddClient (192.168.3.32)
+15:35:13 [SocketManager] Protocol header error (Index: 9000, Header: d5)
+15:35:13 [ObjectManager][9000] DelClient (192.168.3.32)
+15:39:58 [SocketManager] Server started at port [55901]
+15:40:07 [ObjectManager][9000] AddClient (192.168.3.32)
+15:40:10 [ObjectManager][9000] AddAccountInfo (admin)(12DF4B94-78F3C735-F45B4936-1041D8E7)
+15:40:13 [ObjectManager][9000] AddCharacterInfo (Admin)
+15:47:28 [ObjectManager][9000] DelCharacterInfo (Admin)
+15:47:30 [ObjectManager][9000] AddCharacterInfo (Admin)
+16:23:54 [ObjectManager][9000] DelCharacterInfo (Admin)
+16:23:54 [ObjectManager][9000] DelAccountInfo (admin)(12DF4B94-78F3C735-F45B4936-1041D8E7)
+16:23:54 [ObjectManager][9000] DelClient (192.168.3.32)
+16:25:24 [SocketManager] Server started at port [55901]
+16:26:39 [ObjectManager][9000] AddClient (192.168.3.32)
+16:26:42 [ObjectManager][9000] AddAccountInfo (admin)(12DF4B94-78F3C735-F45B4936-1041D8E7)
+16:26:44 [ObjectManager][9000] AddCharacterInfo (Admin)
+17:16:51 [ObjectManager][9000] DelCharacterInfo (Admin)
+17:16:51 [ObjectManager][9000] DelAccountInfo (admin)(12DF4B94-78F3C735-F45B4936-1041D8E7)
+17:16:51 [ObjectManager][9000] DelClient (192.168.3.32)
+17:17:07 [JoinServerConnection] connect() failed with error: 10061
+17:17:09 [DataServerConnection] connect() failed with error: 10061
+17:17:17 [JoinServerConnection] connect() failed with error: 10061
+17:17:19 [DataServerConnection] connect() failed with error: 10061
+17:17:27 [JoinServerConnection] connect() failed with error: 10061
+17:17:29 [DataServerConnection] connect() failed with error: 10061
+17:17:37 [JoinServerConnection] connect() failed with error: 10061
+17:17:39 [DataServerConnection] connect() failed with error: 10061
+17:17:47 [JoinServerConnection] connect() failed with error: 10061
+17:17:49 [DataServerConnection] connect() failed with error: 10061
+17:17:57 [JoinServerConnection] connect() failed with error: 10061
+17:17:59 [DataServerConnection] connect() failed with error: 10061
+17:18:34 [SocketManager] Server started at port [55901]
+17:20:11 [ObjectManager][9000] AddClient (192.168.3.32)
+17:20:14 [ObjectManager][9000] AddAccountInfo (admin)(12DF4B94-78F3C735-F45B4936-1041D8E7)
+17:20:15 [ObjectManager][9000] AddCharacterInfo (Admin)
+23:05:33 [ObjectManager][9000] DelCharacterInfo (Admin)
+23:05:33 [ObjectManager][9000] DelAccountInfo (admin)(12DF4B94-78F3C735-F45B4936-1041D8E7)
+23:05:33 [ObjectManager][9000] DelClient (192.168.3.32)
+23:05:41 [JoinServerConnection] connect() failed with error: 10061
+23:05:43 [DataServerConnection] connect() failed with error: 10061
+23:05:51 [JoinServerConnection] connect() failed with error: 10061
+23:05:53 [DataServerConnection] connect() failed with error: 10061
+23:06:26 [SocketManager] Server started at port [55901]
+23:06:41 [ObjectManager][9000] AddClient (192.168.3.32)
+23:06:43 [ObjectManager][9000] AddAccountInfo (admin)(12DF4B94-78F3C735-F45B4936-1041D8E7)
+23:06:45 [ObjectManager][9000] AddCharacterInfo (Admin)
+23:20:26 [ObjectManager][9000] DelCharacterInfo (Admin)
+23:20:26 [ObjectManager][9000] DelAccountInfo (admin)(12DF4B94-78F3C735-F45B4936-1041D8E7)
+23:20:26 [ObjectManager][9000] DelClient (192.168.3.32)
+23:20:29 [JoinServerConnection] connect() failed with error: 10061
+23:20:31 [DataServerConnection] connect() failed with error: 10061
+23:21:07 [SocketManager] Server started at port [55901]
+23:24:29 [SocketManager] Server started at port [55901]
+23:24:54 [ObjectManager][9000] AddClient (192.168.3.32)
+23:24:56 [ObjectManager][9000] AddAccountInfo (admin)(12DF4B94-78F3C735-F45B4936-1041D8E7)
+23:24:58 [ObjectManager][9000] AddCharacterInfo (Admin)
+23:35:05 [ObjectManager][9000] DelCharacterInfo (Admin)
+23:35:05 [ObjectManager][9000] DelAccountInfo (admin)(12DF4B94-78F3C735-F45B4936-1041D8E7)
+23:35:05 [ObjectManager][9000] DelClient (192.168.3.32)
+23:36:11 [SocketManager] Server started at port [55901]
+23:36:17 [ObjectManager][9000] AddClient (192.168.3.32)
+23:36:21 [ObjectManager][9000] AddAccountInfo (admin)(12DF4B94-78F3C735-F45B4936-1041D8E7)
+23:36:23 [ObjectManager][9000] AddCharacterInfo (Admin)
+23:45:41 [ObjectManager][9000] DelCharacterInfo (Admin)
+23:45:41 [ObjectManager][9000] DelAccountInfo (admin)(12DF4B94-78F3C735-F45B4936-1041D8E7)
+23:45:41 [ObjectManager][9000] DelClient (192.168.3.32)
+23:45:44 [JoinServerConnection] connect() failed with error: 10061
+23:45:46 [DataServerConnection] connect() failed with error: 10061
+23:45:54 [JoinServerConnection] connect() failed with error: 10061
+23:45:56 [DataServerConnection] connect() failed with error: 10061
+23:46:04 [JoinServerConnection] connect() failed with error: 10061
+23:48:20 [SocketManager] Server started at port [55901]
+23:48:36 [ObjectManager][9000] AddClient (192.168.3.32)
+23:48:38 [ObjectManager][9000] AddAccountInfo (admin)(12DF4B94-78F3C735-F45B4936-1041D8E7)
+23:48:40 [ObjectManager][9000] AddCharacterInfo (Admin)

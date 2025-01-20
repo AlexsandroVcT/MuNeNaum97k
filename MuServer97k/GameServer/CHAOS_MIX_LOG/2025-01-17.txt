@@ -1,0 +1,3 @@
+22:46:04 [GoldenArcher] [admin][Admin] LuckyNumber Fail (Wrong Number)
+22:46:11 [GoldenArcher] [admin][Admin] LuckyNumber Fail (Wrong Number)
+22:46:23 [GoldenArcher] [admin][Admin] LuckyNumber Fail (Wrong Number)

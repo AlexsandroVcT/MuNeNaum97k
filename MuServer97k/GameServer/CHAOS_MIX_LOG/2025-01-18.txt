@@ -1,0 +1,2 @@
+01:34:17 [PlusItemLevelMix][Success][admin][Admin] - (Type: 0, ChaosSuccessRate: 80, ChaosMoney: 2000000)
+01:34:26 [PlusItemLevelMix][Success][admin][Admin] - (Type: 1, ChaosSuccessRate: 80, ChaosMoney: 4000000)

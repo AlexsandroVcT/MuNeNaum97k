@@ -1,0 +1,2 @@
+12:42:24 [General][admin][LiXoDoLixo] - (Message: /meke 1)
+12:42:29 [General][admin][LiXoDoLixo] - (Message: /drop 1)

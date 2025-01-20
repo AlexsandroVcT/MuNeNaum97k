@@ -1,0 +1,8 @@
+15:43:06 [CommandGMGlobal][admin][Admin] - (Message: alo)
+15:44:51 [CommandDrop][admin][Admin] - (Section: 0, Type: 15, Level: 11, Skill: 11, Luck: 0, Option: 0, Exc: 0)
+15:46:21 [CommandMake][admin][Admin] - (Section: 14, Type: 13, Level: 0, Skill: 255, Luck: 0, Option: 0, Exc: 0, QUANT: 1)
+15:46:37 [CommandMake][admin][Admin] - (Section: 14, Type: 13, Level: 0, Skill: 255, Luck: 0, Option: 0, Exc: 0, QUANT: 1)
+15:47:47 [CommandGMMove][admin][Admin] - (Name: Admin, Map: 0, X: 15, Y: 15)
+15:48:10 [CommandGMMove][admin][Admin] - (Name: Admin, Map: 0, X: 6, Y: 6)
+16:26:52 [CommandGMGlobal][admin][Admin] - (Message: Ola amigos)
+22:20:28 [CommandGMGlobal][admin][Admin] - (Message: NÃO QUER PEGAR MESSAGE BEM VINDOS)

@@ -1,0 +1,47 @@
+15:03:35 [SocketManager] Server started at port [55980]
+15:03:43 [SocketManager] WSAAccept() failed with error: 10061
+15:03:53 [SocketManager] WSAAccept() failed with error: 10061
+15:04:55 [SocketManager] Server started at port [55980]
+15:05:04 [SocketManager] WSAAccept() failed with error: 10061
+15:05:14 [SocketManager] WSAAccept() failed with error: 10061
+15:05:24 [SocketManager] WSAAccept() failed with error: 10061
+15:08:39 [SocketManager] Server started at port [55980]
+15:12:36 [SocketManager] Server started at port [55980]
+15:12:38 [ServerManager][0] AddServer (127.0.0.1)
+15:12:38 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+15:19:26 [SocketManager] Server started at port [55980]
+15:19:33 [ServerManager][0] AddServer (127.0.0.1)
+15:19:33 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+15:25:51 [SocketManager] Server started at port [55980]
+15:25:58 [SocketManager] WSAAccept() failed with error: 10061
+15:26:08 [SocketManager] WSAAccept() failed with error: 10061
+15:26:18 [SocketManager] WSAAccept() failed with error: 10061
+15:26:28 [SocketManager] WSAAccept() failed with error: 10061
+15:27:24 [SocketManager] Server started at port [55980]
+15:27:32 [ServerManager][0] AddServer (127.0.0.1)
+15:27:32 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+15:39:51 [SocketManager] Server started at port [55980]
+15:39:58 [ServerManager][0] AddServer (127.0.0.1)
+15:39:58 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+16:25:15 [SocketManager] Server started at port [55980]
+16:25:25 [ServerManager][0] AddServer (127.0.0.1)
+16:25:25 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+17:18:28 [SocketManager] Server started at port [55980]
+17:18:35 [ServerManager][0] AddServer (127.0.0.1)
+17:18:35 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+23:06:17 [SocketManager] Server started at port [55980]
+23:06:27 [ServerManager][0] AddServer (127.0.0.1)
+23:06:27 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+23:20:57 [SocketManager] Server started at port [55980]
+23:24:20 [SocketManager] Server started at port [55980]
+23:24:30 [ServerManager][0] AddServer (127.0.0.1)
+23:24:30 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+23:36:02 [SocketManager] Server started at port [55980]
+23:36:12 [ServerManager][0] AddServer (127.0.0.1)
+23:36:12 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+23:46:04 [SocketManager] Server started at port [55980]
+23:46:04 [ServerManager][0] AddServer (127.0.0.1)
+23:46:04 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+23:48:01 [ServerManager][0] DelServer (127.0.0.1)
+23:48:20 [ServerManager][0] AddServer (127.0.0.1)
+23:48:20 [ServerManager][0] ServerInfo (SV1) (55901) (0)

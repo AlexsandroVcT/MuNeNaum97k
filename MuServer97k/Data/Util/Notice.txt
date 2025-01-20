@@ -1,0 +1,28 @@
+//=============================================================================================================================================
+// Message:
+//  Max 128 Characters (Spaces include)
+// Type:
+//  0 -> Global Gold Center
+//  1 -> Global Green Center
+// Repeat Time:
+//  In seconds
+//=============================================================================================================================================
+
+//Message                   Type    RepeatTime
+"MuNeNaum: 22 anos online! A aventura continua."  0   30
+"Prepare-se para desafios e conquistas lendarias."    1   60
+"MuNeNaum: Onde herois e viloes se enfrentam numa batalha epica."    0   90
+"Equipe-se bem e esteja pronto para qualquer batalha."   1   120
+"O poder esta nas suas maos. Use-o com sabedoria."   0   150
+"Forme aliancas estrategicas para dominar os campos de batalha." 1   180
+"Reviva a nostalgia e crie novas memorias inesqueciveis."   0   210
+"Explore e descubra segredos sombrios escondidos em cada canto."   1   240
+"A cada BOSS derrotado, celebre uma nova conquista!"   0   270
+"Fique atento as novidades e atualizacoes do MuNeNaum."    1   300
+"Ajudar os noobs faz parte do espirito do MuNeNaum."    0   330
+"Jogar em equipe e sensacional. Mas cuidado, nem todos sao amigos!"   1   360
+"Voce e um heroi lendario do MuNeNaum. Deixe sua marca nas batalhas sangrentas!"  0   390
+"Lembra-se das primeiras guildas? Construa a sua e domine!"    1   420
+"Cuidado, LixoDosLixoS esta a espreita. So os fortes sobreviverao."    0   450
+"O campo de batalha nao perdoa. Lute ou fuja enquanto pode!"  0   480
+"MuNeNaum: desafios, glória e conquistas para todos os guerreiros e guerreiras." 1   510

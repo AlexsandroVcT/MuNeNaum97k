@@ -1,0 +1,4 @@
+12:40:26 [SocketManager] Server started at port [55901]
+12:40:46 [ObjectManager][9000] AddClient (192.168.3.32)
+12:40:48 [ObjectManager][9000] AddAccountInfo (admin)(12DF4B94-78F3C735-F45B4936-1041D8E7)
+12:41:42 [ObjectManager][9000] AddCharacterInfo (LiXoDoLixo)
